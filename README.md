@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KirilGvozd
 - 👀 I’m interested in C++, JavaScript.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently learning C++ and JavaScript.
+- 💞️ I’m looking to collaborate on laboratory works.
 - 📫 How to reach me: vk.com/life_is_killingme
 
 <!---
