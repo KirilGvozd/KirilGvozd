@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirilGvozd
-- 👀 I’m interested in full-stack web-development.
-- 🌱 I’m currently learning front-end.
+- 👀 I’m interested in back-end web-development.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on laboratory works.
 - 📫 How to reach me: Telegram: @Huge_Metal_Fan
 
