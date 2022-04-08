@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KirilGvozd
 - 👀 I’m interested in back-end web-development.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning How OSs work in general.
 - 💞️ I’m looking to collaborate on laboratory works.
-- 📫 How to reach me: Telegram: @Huge_Metal_Fan
+- 📫 How to reach me: Telegram: @old_cook
 
 <!---
 KirilGvozd/KirilGvozd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
