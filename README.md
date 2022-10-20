@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirilGvozd
 - 👀 I’m interested in back-end web-development.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on laboratory works.
 - 📫 How to reach me: Telegram: @old_cook
 
