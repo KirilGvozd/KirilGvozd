@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [vk.com/life\_is\_killingme](mailto:vk.com/life_is_killingme)
-* 🧠  I'm learning Java/Spring
+* 🧠  I'm learning Nigger/Penis
 
 ### Skills
 
