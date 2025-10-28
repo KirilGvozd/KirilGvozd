@@ -5,7 +5,7 @@ Graduate of BSTU 2025
 --------------------------
 
 * 🌍  I'm based in Minsk
-* ✉️  You can contact me at [vk.com/life\_is\_killingme](mailto:vk.com/life_is_killingme)
+* ✉️  You can contact me at Telegram (@kirilgvozd)
 * 🧠  I'm learning Java/Spring, JavaScript, Node.js, TypeScript, NestJS
 
 ### Socials
